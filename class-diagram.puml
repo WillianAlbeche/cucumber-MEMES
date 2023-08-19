@@ -1,0 +1,23 @@
+@startuml
+class Farm {
+    - x1: int
+    - y1: int
+    - x2: int
+    - y2: int
+    + Farm(x1: int, y1: int, x2: int, y2: int)
+    + isInside(meteorite: Meteorite): boolean
+}
+
+class Meteorite {
+    - x: int
+    - y: int
+    + Meteorite(x: int, y: int)
+}
+
+class Main {
+    + main(args: String[])
+}
+
+Farm ..> Meteorite : uses
+Main ..> Farm : uses
+@enduml
