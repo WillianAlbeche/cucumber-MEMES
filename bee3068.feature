@@ -3,9 +3,9 @@ Feature: Counting Meteorites Inside a Farm
 
     Narrative:
 
-    In order to identify how many meteorites have hit the farm
-    As a farmer
-    I want to know how many meteorites have hit the farm
+    As a farmer who's passionate about astronomy,
+    I want to determine the count of meteorites that have fallen on my farm
+    So that I can understand the impact of celestial events on my property
 
     Scenario: Calculating the number of meteorites inside a farm
         Given the coordinates of the upper left corner (X1, Y1) and lower right corner (X2, Y2) of a farm
