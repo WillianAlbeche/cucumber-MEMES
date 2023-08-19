@@ -36,4 +36,4 @@ Feature: Counting Meteorites Inside a Farm
             | X1 | Y1 | X2 | Y2 | N | M1X | M1Y | M2X | M2Y | M3X | M3Y | ExpectedCount |
             | 2  | 4  | 5  | 1  | 2 | 1   | 2   | 3   | 3   | -   | -   | 1             |
             | 2  | 4  | 3  | 2  | 3 | 1   | 1   | 2   | 2   | 3   | 3   | 2             |
-            | 0  | 0  | 0  | 0  | 0 | 0   | 0   | 0   | 0   | 0   | 0   | 0             |
+            | 0  | 0  | 0  | 0  | 0 | -   | -   | -   | -   | -   | -   | 0             |
