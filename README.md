@@ -5,7 +5,7 @@
 - Willian Albeche
 
 ## Descrição
-Este repositório é um exercício desenvolvido durante a disciplina de Métodos e Modelos para Engenharia de Software no semestre 2023/2 na PUCRS. Contém uma especificação de requisito funcional em Gherkin e um diagrama UML para o problema dos Meteoritos do BeeCrowd (https://www.beecrowd.com.br/judge/en/problems/view/3068).
+Este repositório é um exercício desenvolvido durante a disciplina de Métodos e Modelos para Engenharia de Software no semestre 2023/2 na PUCRS. Contém uma especificação de requisito funcional em Gherkin e um diagrama pUML para o problema dos Meteoritos do BeeCrowd (https://www.beecrowd.com.br/judge/en/problems/view/3068).
 
 ## Problema
 Em noites sem nuvens pode-se muitas vezes observar pontos brilhantes no céu que se deslocam com grande velocidade, e em poucos segundos desaparecem de vista: são as chamadas estrelas cadentes, ou meteoros. Meteoros são na verdade partículas de poeira de pequenas dimensões que, ao penetrar na atmosfera terrestre, queimam-se rapidamente (normalmente a uma altura entre 60 e 120 quilômetros). Se os meteoros são suficientemente grandes, podem não queimar-se completamente na atmosfera e dessa forma atingem a superfície terrestre: nesse caso são chamados de meteoritos.
@@ -67,7 +67,7 @@ Feature: Counting Meteorites Inside a Farm
             | 0  | 0  | 0  | 0  | 0 | -   | -   | -   | -   | -   | -   | 0             |
 ```
 
-## Diagrama UML
+## Diagrama pUML
 
 
 ## Conclusões
